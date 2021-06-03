@@ -1,3 +1,7 @@
 commit 
 repository 
 branch
+
+****************
+git init
+git config
