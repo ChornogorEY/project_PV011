@@ -5,3 +5,6 @@ branch
 ****************
 git init
 git config
+
+git add
+git status
